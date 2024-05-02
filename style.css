@@ -1,7 +1,10 @@
- /* * {
-     padding: 0;
-     margin: 0;
- } */
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&display=swap');
+ * {
+     /* padding: 0;
+     margin: 0; */
+     font-family: "Noto Sans Bengali", sans-serif;
+ }
 
  body {
      background-color: gray;
@@ -12,7 +15,7 @@
  .card {
      background-color: white;
      width: 222px;
-     height: 370px;
+     height: 380px;
      border-radius: 12px;
      /* box-shadow: 0 40px 80px #ffffff; */
      transition: 0.5s ease;
@@ -55,7 +58,7 @@
      pointer-events: none;
  }
 
- .content h4 {
+ .content h3 {
      margin-bottom: 0;
  }
 
