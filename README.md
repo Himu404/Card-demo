@@ -12,5 +12,5 @@ Clone the repository and open `index.html` in your web browser:
 
 ```bash
 git clone https://github.com/Himu404/Card-demo.git
-cd card-slider-demo
+cd Card-demo
 open index.html
